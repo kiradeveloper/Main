@@ -1,25 +1,3 @@
-<!------------------ HELLO! | Code & Designed by ----------------------
-
-                                                                                  
-88888888ba               88                                                   
-88      "8b              88                                                   
-88      ,8P              88                                                   
-88aaaaaa8P'  ,adPPYYba,  88  888888888  8b,dPPYba,   8b,dPPYba,   ,adPPYba,   
-88""""""8b,  ""     `Y8  88       a8P"  88P'    "8a  88P'   "Y8  a8"     "8a  
-88      `8b  ,adPPPPP88  88    ,d8P'    88       d8  88          8b       d8  
-88      a8P  88,    ,88  88  ,d8"       88b,   ,a8"  88          "8a,   ,a8"  
-88888888P"   `"8bbdP"Y8  88  888888888  88`YbbdP"'   88           `"YbbdP"'   
-                                        88                                    
-                                        88                                    
-
-                                                        Balzpro Development
-    -----------------------------------------------------------------------
-
-                Facebook : https://fb.com/balzpro
-                 Discord : balzpro#2980
-          Template / CSS : Material Bootstrap @ https://mdbootstrap.com/
-
-    ----------------------------------------------------------------------->
 <?php
 
 error_reporting(0);
