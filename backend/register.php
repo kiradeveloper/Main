@@ -61,11 +61,11 @@ if ($username == "" || $password == "" || $repassword == "" || $email == "" || $
                         $mail->Port = 587;
                         $mail->SMTPAuth = true;
                         $mail->SMTPSecure = 'tls';
-                        $mail->Username = 'foreverls.id@gmail.com';
-                        $mail->Password = 'bswqpkcjmcffzjwe';
-                        $mail->setFrom('foreverls.id@gmail.com', 'Forever Lost');
+                        $mail->Username = ''; // Email
+                        $mail->Password = ''; // Password
+                        $mail->setFrom('', 'Forever Lost');
                         $mail->addAddress($email);
-                        $mail->addReplyTo('foreverls.id@gmail.com');
+                        $mail->addReplyTo(''); // Email
                         $mail->Subject = 'Registering Account ' . $username . '';
                         $mail->Body = 'Hi ' . $username . ',
 
